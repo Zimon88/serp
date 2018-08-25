@@ -1,0 +1,2 @@
+module pl.isimon.warehouse {
+}

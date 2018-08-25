@@ -6,6 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="pl.isimon.db" />
+        <module name="pl.isimon.erpbase" />
+        <module name="pl.isimon.hr" />
+        <module name="pl.isimon.production" />
+        <module name="pl.isimon.warehouse" />
         <module name="serp" />
       </profile>
     </annotationProcessing>
