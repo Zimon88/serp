@@ -5,6 +5,8 @@
     <file url="file://$PROJECT_DIR$/pl.isimon.db" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pl.isimon.erpbase" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pl.isimon.hr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.isimon.lang" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pl.isimon.logger" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pl.isimon.production" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pl.isimon.warehouse" charset="UTF-8" />
   </component>

@@ -9,10 +9,13 @@
         <module name="pl.isimon.db" />
         <module name="pl.isimon.erpbase" />
         <module name="pl.isimon.hr" />
+        <module name="pl.isimon.lang" />
         <module name="pl.isimon.production" />
         <module name="pl.isimon.warehouse" />
-        <module name="serp" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pl.isimon.logger" target="1.9" />
+    </bytecodeTargetLevel>
   </component>
 </project>

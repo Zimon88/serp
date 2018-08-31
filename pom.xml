@@ -6,7 +6,7 @@
 
     <groupId>pl.isimon</groupId>
     <artifactId>serp</artifactId>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
     
     <modules>
@@ -15,7 +15,16 @@
         <module>pl.isimon.hr</module>
         <module>pl.isimon.production</module>
         <module>pl.isimon.warehouse</module>
+        <module>pl.isimon.lang</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.tinylog</groupId>
+            <artifactId>tinylog</artifactId>
+            <version>1.3.5</version>
+        </dependency>
+    </dependencies>
 
     <properties>
         <maven.version>3.3.9</maven.version>
